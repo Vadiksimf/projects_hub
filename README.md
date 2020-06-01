@@ -11,6 +11,11 @@ src:  https://github.com/Vadiksimf/Skepsis2020
 page: https://vadiksimf.github.io/natours/<br>
 src:  https://github.com/Vadiksimf/natours
 
+
+- Вариант страницы SPA по поиску и бронированию отелей, билетов, авто.<br>
+page: https://vadiksimf.github.io/trillo/<br>
+src: https://github.com/Vadiksimf/trillo
+
 - Интернет страничка для кофеен и магазинов по продаже кофе и чая.<br>
 page: https://vadiksimf.github.io/Coffee-stock/<br>
 src:  https://github.com/Vadiksimf/Coffee-stock
