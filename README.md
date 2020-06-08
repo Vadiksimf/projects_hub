@@ -7,11 +7,6 @@
 page: https://escapeproject.logos.ngo/<br>
 src:  https://github.com/Vadiksimf/Skepsis2020
 
-- Проект с использованием BEM, SCSS и практика анимации на CSS(@keyframes, transform ...).<br>
-page: https://vadiksimf.github.io/natours/<br>
-src:  https://github.com/Vadiksimf/natours
-
-
 - Вариант страницы SPA по поиску и бронированию отелей, билетов, авто.<br>
 page: https://vadiksimf.github.io/trillo/<br>
 src: https://github.com/Vadiksimf/trillo
@@ -47,7 +42,6 @@ page: https://vadiksimf.github.io/Mizuxe/
 -	Примеры верстки на чистом HTML и CSS. Javascript не подключен.<br>
 page: https://vadiksimf.github.io/portfolio_example/<br>
 page: https://vadiksimf.github.io/witcher/
-
 
 
 
