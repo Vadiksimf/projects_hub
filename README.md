@@ -37,6 +37,7 @@ page: https://carpatianstories.logos.ngo/<br>
 page: https://cthffym.logos.ngo/
 
 - Сверстанные шаблоны BOOTSTRAP:<br>
+page: https://vadiksimf.github.io/starting_page_bootstrap/<br>
 page: https://vadiksimf.github.io/Mizuxe/<br>
 page: https://vadiksimf.github.io/GlozzomMP/<br>
 page: https://vadiksimf.github.io/blog_admin_panel/<br>
