@@ -3,6 +3,10 @@
 
 /*---------------------- Последние проекты: -----------------------*/
 
+- Верстка макета сайта фирмы Cubiscan (designer Uriy Sichkarenko) - в процессе...:<br>
+page: https://vadiksimf.github.io/cubiscan/<br>
+src:  https://github.com/Vadiksimf/cubiscan
+
 - Учебный проект с использованием современых фишек:<br>
 page: https://vadiksimf.github.io/natours/<br>
 src:  https://github.com/Vadiksimf/natours
