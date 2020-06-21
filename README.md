@@ -3,6 +3,10 @@
 
 /*---------------------- Последние проекты: -----------------------*/
 
+- Учебный проект с использованием современых фишек:<br>
+page: https://vadiksimf.github.io/natours/<br>
+src:  https://github.com/Vadiksimf/natours
+
 - Инфостраница будущего проекта Logos NGO:<br>
 page: https://escapeproject.logos.ngo/<br>
 src:  https://github.com/Vadiksimf/Skepsis2020
