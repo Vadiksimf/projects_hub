@@ -46,10 +46,15 @@ page: https://cthffym.logos.ngo/
 
 - Сверстанные шаблоны BOOTSTRAP:<br>
 page: https://vadiksimf.github.io/starting_page_bootstrap/<br>
+src: https://github.com/Vadiksimf/starting_page_bootstrap<br>
 page: https://vadiksimf.github.io/Mizuxe/<br>
+src: https://github.com/Vadiksimf/Mizuxe<br>
 page: https://vadiksimf.github.io/GlozzomMP/<br>
+src: https://github.com/Vadiksimf/GlozzomMP<br>
 page: https://vadiksimf.github.io/blog_admin_panel/<br>
-page: https://vadiksimf.github.io/Landing_boot/
+src: https://github.com/Vadiksimf/blog_admin_panel<br>
+page: https://vadiksimf.github.io/Landing_boot/<br>
+src: https://github.com/Vadiksimf/Landing_boot
 
 -	Примеры верстки на чистом HTML и CSS. Javascript не подключен.<br>
 page: https://vadiksimf.github.io/portfolio_example/<br>
