@@ -3,6 +3,9 @@
 
 /*---------------------- Последние проекты: -----------------------*/
 
+- Back-end Node.js template (tour booking site)<br>
+https://github.com/Vadiksimf/nodejs_natours
+
 - Верстка макета сайта фирмы Cubiscan (designer Uriy Sichkarenko) - в процессе...:<br>
 page: https://vadiksimf.github.io/cubiscan/<br>
 src:  https://github.com/Vadiksimf/cubiscan
